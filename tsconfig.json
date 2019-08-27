@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "sourceMap": true,
+    "incremental": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "outDir": "dist"
+  }
+}
